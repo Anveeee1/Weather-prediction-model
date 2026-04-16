@@ -32,31 +32,6 @@ Weather_Heat_Prediction/
 └── 📄 README.md
 </pre>
 
-<!-- # 🌦️ Weather Heat Prediction Model
-
-## 📌 Project Overview
-This project is a Machine Learning-based model that predicts temperature (heat) using historical weather data. The model is trained using a dataset and then tested to evaluate its prediction performance.
-
----
-
-## 🎯 Objective
-The main objective of this project is:
-- To understand how Machine Learning works
-- To build a predictive model using weather data
-- To analyze and visualize data patterns
-- To predict temperature using Linear Regression
-
----
-
-## 📂 Project Structure
-Weather_Heat_Prediction/
-│── Weather_heat_prediction_model.ipynb # Main notebook
-│── TRAIN.csv # Training dataset
-│── TEST.csv # Testing dataset
-│── README.md # Project documentation
-
----
-
 ## 📊 Dataset Description
 - **TRAIN.csv**: Used to train the machine learning model  
 - **TEST.csv**: Used to test and validate predictions  
@@ -125,4 +100,4 @@ This project demonstrates how Machine Learning can be applied to predict weather
 ---
 
 🙌 Author
-Anvee Verma -->
+Anvee Verma 
