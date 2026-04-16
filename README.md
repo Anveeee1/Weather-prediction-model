@@ -1,5 +1,32 @@
 # 🌦️ Weather Heat Prediction Model
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Project-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+</p>
+
+---
+
+## 📌 Project Overview
+This project is a **Machine Learning model** that predicts **temperature (heat)** using historical weather data.  
+The model is trained on past data and evaluated for prediction accuracy.
+
+---
+
+## 🎯 Objective
+- Understand how Machine Learning works  
+- Build a predictive model using weather data  
+- Analyze and visualize data patterns  
+- Predict temperature using **Linear Regression**
+
+---
+
+## 📂 Project Structure
+
+
+<!-- # 🌦️ Weather Heat Prediction Model
+
 ## 📌 Project Overview
 This project is a Machine Learning-based model that predicts temperature (heat) using historical weather data. The model is trained using a dataset and then tested to evaluate its prediction performance.
 
@@ -91,4 +118,4 @@ This project demonstrates how Machine Learning can be applied to predict weather
 ---
 
 🙌 Author
-Anvee Verma
+Anvee Verma -->
