@@ -24,6 +24,11 @@ The model is trained on past data and evaluated for prediction accuracy.
 
 ## 📂 Project Structure
 
+Weather_Heat_Prediction/
+│── Weather_heat_prediction_model.ipynb # Main Notebook
+│── TRAIN.csv # Training Dataset
+│── TEST.csv # Testing Dataset
+│── README.md # Documentation
 
 <!-- # 🌦️ Weather Heat Prediction Model
 
