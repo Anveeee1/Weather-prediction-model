@@ -76,6 +76,7 @@ Run all cells
 ---
 
 🔄 Workflow
+
 Import libraries
 Load dataset
 Data preprocessing (date/time conversion)
@@ -88,6 +89,7 @@ Result evaluation
 ---
 
 📈 Output
+
 The model generates predicted temperature values
 Graphs help visualize trends and relationships
 
@@ -99,5 +101,3 @@ This project demonstrates how Machine Learning can be applied to predict weather
 
 ---
 
-🙌 Author
-Anvee Verma 
