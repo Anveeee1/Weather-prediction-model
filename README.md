@@ -75,7 +75,7 @@ Run all cells
 
 ---
 
-🔄 Workflow
+## 🔄 Workflow
 
 Import libraries
 Load dataset
@@ -88,14 +88,14 @@ Result evaluation
 
 ---
 
-📈 Output
+##📈 Output
 
 The model generates predicted temperature values
 Graphs help visualize trends and relationships
 
 ---
 
-✅ Conclusion
+##✅ Conclusion
 
 This project demonstrates how Machine Learning can be applied to predict weather conditions. Linear Regression provides a simple yet effective way to model relationships between variables.
 
