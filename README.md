@@ -47,8 +47,8 @@ The dataset includes:
 ## ⚙️ Installation & Setup
 
 ### 🔹 Step 1: Install Required Libraries
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+
+ pip install pandas numpy matplotlib seaborn scikit-learn 
 
 Step 2: Run the Project
 
