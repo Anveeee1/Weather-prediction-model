@@ -29,6 +29,7 @@ Weather_Heat_Prediction/
 ├── 📓 Weather_heat_prediction_model.ipynb
 ├── 📊 TRAIN.csv
 ├── 📊 TEST.csv
+├── 🎯 score.xlsx 
 └── 📄 README.md
 </pre>
 
